@@ -1,0 +1,10 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1.0in]{geometry}
+\usepackage{sty/pkg}
+\usepackage{sty/stb}
+\usepackage{sty/chg}
+\begin{document}
+
+\
+
+\end{document}
